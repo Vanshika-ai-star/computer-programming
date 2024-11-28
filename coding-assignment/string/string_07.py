@@ -1,4 +1,4 @@
-# 5. Find the frequency of each character in a string.
+# Find the frequency of each character in a string.
 string = "hello"
 frequency = {}
 for char in string:
