@@ -1,4 +1,4 @@
-#18. Find the Pair with a Specific Sum
+#18 Find the Pair with a Specific Sum
 numbers = [2, 4, 3, 7, 1, 9]
 target_sum = 10
 found_pair = False
