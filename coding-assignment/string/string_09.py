@@ -1,4 +1,4 @@
-# 7. Find the longest word in a sentence.
+# Find the longest word in a sentence.
 sentence = "Find the longest word here"
 words = sentence.split()
 longest_word = ""
